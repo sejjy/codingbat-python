@@ -1,6 +1,6 @@
 <div align="center">
 
-## codingbat.py
+## codingbat-python
 
 Solutions to CodingBat Python problems
 
