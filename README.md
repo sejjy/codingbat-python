@@ -4,8 +4,8 @@
 
 Solutions to CodingBat Python problems
 
-| ![make_chocolate](./p190859.png) |
-| :------------------------------: |
+| ![screenshot](./screenshot.png) |
+| :-----------------------------: |
 
 </div>
 
